@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! My name is Emir Furkan Ulu and I'm a passionate Cyber Security Junior, from Türkiye.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EForce11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EForce11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="120" src="https://cdn.discordapp.com/avatars/330408037401493504/4133ebfbfa93f6bcf7f573aba1ab58b2.png?size=1024"  />
 
 ###
