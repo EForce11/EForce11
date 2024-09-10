@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="240" src="https://cdn.discordapp.com/avatars/330408037401493504/4133ebfbfa93f6bcf7f573aba1ab58b2.png?size=1024"  />
+<img align="right" height="120" src="https://cdn.discordapp.com/avatars/330408037401493504/4133ebfbfa93f6bcf7f573aba1ab58b2.png?size=1024"  />
 
 ###
 
@@ -66,8 +66,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="45" alt="webstorm logo"  />
 </div>
-
-<br clear="both">
 
 ###
 
