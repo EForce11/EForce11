@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! My name is Emir Furkan Ulu and I'm a passionate Cyber Security Junior, from Türkiye.</h2>
 
-<img align="right" height="160" src="https://cdn.discordapp.com/avatars/330408037401493504/4133ebfbfa93f6bcf7f573aba1ab58b2.png?size=1024"  />
+###
+
+<h2 align="center">Technologies✨</h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
