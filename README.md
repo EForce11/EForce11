@@ -49,8 +49,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EForce11&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />  
-  <img src="https://tryhackme-badges.s3.amazonaws.com/EForce11.png" height="150" alt="Your Image Badge" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EForce11&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph" />  
+  <img src="https://tryhackme-badges.s3.amazonaws.com/EForce11.png" height="100" alt="Your Image Badge" />
 </div>
 
 ###
