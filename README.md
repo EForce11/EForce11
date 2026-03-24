@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Emir Furkan Ulu and I'm a passionate Cyber Security Junior, from Türkiye.</h2>
 <div align="center">
-  <img height="200em" src="https://github-readme-stats-ten-gamma-94.vercel.app/api?username=EForce11&show_icons=true&theme=tokyonight" />
-  <img height="200em" src="https://github-readme-stats-ten-gamma-94.vercel.app/api/top-langs/?username=EForce11&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-ten-gamma-94.vercel.app/api?username=EForce11&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-ten-gamma-94.vercel.app/api/top-langs/?username=EForce11&layout=compact&theme=tokyonight" />
 </div>
 
 ###
