@@ -1,4 +1,7 @@
 <h2 align="left">Hi 👋! My name is Emir Furkan Ulu and I'm a passionate Cyber Security Junior, from Türkiye.</h2>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEForce11&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 <div align="center">
   <img height="190em" src="https://github-readme-stats-ten-gamma-94.vercel.app/api?username=EForce11&show_icons=true&theme=tokyonight" />
   <img height="190em" src="https://github-readme-stats-ten-gamma-94.vercel.app/api/top-langs/?username=EForce11&layout=compact&theme=tokyonight" />
